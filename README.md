@@ -81,7 +81,8 @@ agent.run()
 
 ```
 # Output:
-![alt text](image.png)
+<img width="467" height="473" alt="image" src="https://github.com/user-attachments/assets/de74a009-e2fe-45c3-bd77-81bd2b6cc4e2" />
+
 
 # Result:
 Thus the PEAS description for the given AI problem is found and an AI agent is developed.
