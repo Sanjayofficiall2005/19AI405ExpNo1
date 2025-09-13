@@ -81,7 +81,8 @@ agent.run()
 
 ```
 # Output:
-<img width="467" height="473" alt="image" src="https://github.com/user-attachments/assets/de74a009-e2fe-45c3-bd77-81bd2b6cc4e2" />
+<img width="1455" height="559" alt="image" src="https://github.com/user-attachments/assets/9f80b0c1-c0fe-4710-8070-6f1c87bb49e6" />
+
 
 
 # Result:
